@@ -1,0 +1,12 @@
+---
+title: NASA Space Apps Challenge
+author: Singapore Winner
+layout: post
+---
+Migrantlyzer is a visualization of human migratory patterns and factors.
+
+In this hackathon, we created a javascript dashboard application. This allowed visualisation of human migratory patterns, and attempted to correlate various push and pull factors that may affect migrations in humans.
+
+Data was scraped from NASA Databases and various official census sources online.
+
+The repository can be viewed here:
