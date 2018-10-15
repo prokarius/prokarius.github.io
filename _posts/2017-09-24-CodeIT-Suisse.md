@@ -1,6 +1,6 @@
 ---
-title: Fishackathon Singapore 2017
-author: Singapore Winner
+title: CodeIT-Suisse Singapore 2017
+author: 3rd Runner Up
 layout: post
 ---
 
