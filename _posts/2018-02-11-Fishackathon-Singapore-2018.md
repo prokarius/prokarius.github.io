@@ -4,12 +4,10 @@ author: Singapore Winner
 layout: post
 ---
 
-We developed and deployed a PaaS webapp to solve various algorithmic challenges in Python.
+We designed an autonomous amphibious drone that can monitor and report illegal fishing in geofenced marine areas.
 
-CodeIT Suisse is an annual algorithmic competition held by Credit Suisse, in tandem with teams from Hong Kong.
+Overfishing and illegal fishing are pressing issues in today's world, and many governmental agencies do not have the time or money to patrol the open waters in order to curb fisherman from doing that.
 
-This year, the algorithmic challenges included fractional knapsack, O(n) sorting implementations, string processing, flood fill, coordinate geometry, as well as an interactive API challenge. You may view the [original host website here](http://cis2017-coordinator-sg.herokuapp.com/).
+Teaming up with 2 PhD students from MIT, we designed a light weight, fully autonomous drone solution to curb overfishing and illegal fishing in the ocean. The solution consists of an offline mesh network of drones that would be able to monitor a region of the ocean, and report back to a central command server of vessels doing illegal activities in the region.
 
-Our team managed to climb the leaderboards and get third runner up for this competition, despite having a rough start. It took us a couple of hours just to set up the server config, and a few more to until we were able to submit our code.
-
-You may find the link to our solution code [here](https://github.com/rrtheonlyone/Credit-Suisse-CodeSprint). All the solutions were implemented in python, and a Django server was deployed for the challenge.
+The cost and design of the drones, while high, would be offset by the protection of our marine species in the world today. The lifespan of the drone are also estimated to be long enough that in the long run, these equipment would pay for itself in terms of the impact it would have on the marine ecosystem.
